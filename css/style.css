@@ -65,6 +65,9 @@ a:hover, a:active {
   outline: 0;
 }
 
+span{
+  color: #898E90;
+}
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -2239,7 +2242,7 @@ form textarea {
   content: " ";
   width: 7px;
   height: 5px;
-  background: url(images/arrow.png) no-repeat;
+  background: url(../images/arrow.png) no-repeat;
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
